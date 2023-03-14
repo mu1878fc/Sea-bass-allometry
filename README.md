@@ -9,10 +9,10 @@
 
 python .\CombVarFishAlloModel.py -i <input data>.csv -o <output folder> -f <function>
 
-#<input data> = input CSV file full path
-#<output folder> = output folder where results will be stored.
-#<function> = lin for linear
-#			 poly2 for polinomial degree 2
+# <input data> = input CSV file full path
+# <output folder> = output folder where results will be stored.
+# <function> = lin for linear
+#	       poly2 for polinomial degree 2
 #			 pow for power
 #			 loglin for log linear
        
